@@ -1,0 +1,9 @@
+# dep
+/node_modules/
+package-log.json
+
+# secret
+config.prod.json
+
+#out
+/dist
